@@ -1,4 +1,4 @@
-# GOPS
+## GOPS
 
 A new parallel global surrogate-based algorithm Global Optimization in Parallel with Surrogate (GOPS) for the minimization of continuous black-box objective functions that might have multiple local minima, are expensive to compute, and have no derivative information available.
 
@@ -9,7 +9,7 @@ GOPS is tested with up to 128 processors in parallel on 14 synthetic black-box o
 Details of GOPS are described in the GOPS paper https://link.springer.com/article/10.1007/s11081-020-09556-1.
 The  pseudo-code and  a proof of convergence of GOPS are described in the Supplementary Material of GOPS paper https://static-content.springer.com/esm/art%3A10.1007%2Fs11081-020-09556-1/MediaObjects/11081_2020_9556_MOESM1_ESM.pdf
 
-# Citing US
+## Citing US
 If you use GOPS, please cite the following paper: Xia, W., & Shoemaker, C. (2020). GOPS: efficient RBF surrogate global optimization algorithm with high dimensions and many parallel processors including application to multimodal water quality PDE model calibration. Optimization and Engineering, 1-37. https://doi.org/10.1007/s11081-020-09556-1
 
 ```
